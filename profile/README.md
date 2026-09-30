@@ -7,15 +7,6 @@ The Polar Geospatial Center (PGC) at the University of Minnesota provides geospa
 
 ---
 
-### Key Repositories
-
-| Repository | Description | Stack |
-| :--- | :--- | :--- |
-| [imagery_utils](https://github.com/PolarGeospatialCenter/imagery_utils) | Scripts for orthorectification, radiometric r=correction and pansharpening of Maxar/Vantor imagery | Python, GDAL |
-| [pgcdemtools](https://github.com/PolarGeospatialCenter/pgcdemtools) | Utilities for indexing, shelving, copying, and modifying DEMs | Python, GDAL |
-
----
-
 ### Resources
 
 * [PGC Coding & Utilities](https://www.pgc.umn.edu/knowledgebase_category/pgc-coding-and-utilities/) - Code links, documentation, tutorials, and workflows
